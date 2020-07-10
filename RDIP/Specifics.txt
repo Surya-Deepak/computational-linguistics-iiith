@@ -1,0 +1,22 @@
+Left side - Vlabs Logo with description
+
+Right side - IIITH Logo
+
+Nav bar - Computational Linguistics Lab Button - Takesus to cL lab main page
+
+Directory path
+
+Forming Sentences - 2 <h1>
+
+Intro Button - Takes us to Intoduction page
+
+Theory Button - Takes us to theory page
+
+Objective Button - Takes us to Objective PAge
+
+Experiment page - 
+
+Quizzes Page
+
+Procedure page 
+
