@@ -2,6 +2,13 @@ body
 {
     background-color: grey;
 }
+#Heading
+{
+    text-align: center;
+    font-style: italic;
+    text-decoration-line: underline;
+    color: blue;
+}
 
 #langua {
     margin-top: 4%;
@@ -102,7 +109,7 @@ body
      
 }
 
-#s9{
+#ptag9{
      
     
    position: absolute;
@@ -115,7 +122,7 @@ body
     font-style: italic;
      
 }
-#s10{
+#ptag10{
      
     
    position: absolute;
