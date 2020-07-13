@@ -23,7 +23,7 @@ body
 #s1{
     position: absolute;
     width: 900px;
-    top: 23%;
+    top: 18%;
     left: 48%;
     transform: translate(-50%, -50%);
     font-size: 23px;
@@ -33,7 +33,7 @@ body
 #s2{
     position:absolute;
     width: 900px;
-    top: 28%;
+    top: 24%;
     left: 66%;
     transform: translate(-50%, -50%);
     font-size: 20px;

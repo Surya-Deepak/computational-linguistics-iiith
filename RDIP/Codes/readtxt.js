@@ -28,7 +28,7 @@ var answers="";
 var j;
 let selection = document.getElementById("langua");
 
-
+//comparing
 function cs(){
   
         var str= fin.trim();
@@ -46,6 +46,7 @@ function cs(){
     document.getElementById("ptag10").innerHTML = "<center><button id='showansbtn' onclick='gs()'>Get Correct Sentence</button></center>"
 }
 
+//getting correct ans
 function gs(){
     
     answers="";
@@ -71,14 +72,14 @@ if (selection.value=='english'){
    
 }
 
-
+//hiding
 function hs(){
     document.getElementById('ptag10').innerHTML = "<center><button id='showansbtn' onclick='toggle()'>Get Correct Sentence</button></center>"
     document.getElementById("correctans").innerHTML = "";
 }
 
 
-
+//togle
 function toggle(){
     while(document.getElementById("correctans").innerHTML ==""){
     
@@ -137,7 +138,7 @@ function rs(){
 
 
 
-//This is the first command that will run after the value is changed in the dropdown menu.
+
 function run(){
 if (selection.value === "english"){
     
