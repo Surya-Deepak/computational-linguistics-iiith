@@ -1,0 +1,142 @@
+body
+{
+    background-color: grey;
+}
+
+#langua {
+    margin-top: 4%;
+    padding: 2px;
+    border: 1px solid black;
+    width: 180px;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#s1{
+    position: absolute;
+    width: 900px;
+    top: 23%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    font-size: 23px;
+    color: darkblue;
+    font-family:  sans-serif;
+}
+#s2{
+    position:absolute;
+    width: 900px;
+    top: 28%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-style: italic;
+    color: darkblue;
+    font-family:  sans-serif;
+} 
+#s3{
+     text-align: center;
+     padding: 150px;
+     font-size: 18px;
+     
+}
+#s4{
+     position: absolute;
+    width: 900px;
+    top: 35%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-style: italic;
+    color: darkblue;
+    font-family:  sans-serif;
+     
+}
+#s5{
+     position: absolute;
+    
+    width: 900px;
+    top: 40%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+   
+     
+}
+#s6{
+     
+    
+   position: absolute;
+  
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    color: black;
+     
+}
+#s7{
+     
+    
+   position: absolute;
+    width: 900px;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    color: black;
+     
+}
+#s8{
+     
+     position: absolute;
+    width: 900px;
+    top: 58%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: green;
+    
+     
+}
+
+#s9{
+     
+    
+   position: absolute;
+    width: 900px;
+    top: 58%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: red;
+    font-style: italic;
+     
+}
+#s10{
+     
+    
+   position: absolute;
+    width: 900px;
+    top: 63%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    color: black;
+    
+     
+}
+#correctans{
+     
+    position: absolute;
+    width: 900px;
+    top: 82%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    color: black;
+   
+     
+}
